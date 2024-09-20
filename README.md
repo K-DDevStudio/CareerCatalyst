@@ -1,6 +1,6 @@
 # Sharkployee
 
-![Sharkployee Logo](img/logo.png)
+![Sharkployee Logo](img/icon.png)
 
 **Sharkployee** is a powerful Python application designed to streamline your job search and hiring processes. Whether you're a job seeker or a recruiter, Sharkployee provides a suite of tools to optimize and simplify career management.
 
