@@ -1,8 +1,8 @@
-# Sharkployee
+# Carrer Catalyst
 
-![Sharkployee Logo](img/icon.png)
+![Carrer Catalyst Logo](img/icon.png)
 
-**Sharkployee** is a powerful Python application designed to streamline your job search and hiring processes. Whether you're a job seeker or a recruiter, Sharkployee provides a suite of tools to optimize and simplify career management.
+**Carrer Catalyst** is a powerful Python application designed to streamline your job search and hiring processes. Whether you're a job seeker or a recruiter, Carrer Catalyst provides a suite of tools to optimize and simplify career management.
 
 ## Features
 
@@ -14,18 +14,18 @@
 
 ## Getting Started
 
-To get started with Sharkployee, follow these instructions:
+To get started with Carrer Catalyst, follow these instructions:
 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/K-DDevStudio/sharkployee.git
+    git clone https://github.com/K-DDevStudio/CarrerCatalyst.git
     ```
 
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd sharkployee
+    cd Carrer Catalyst
     ```
 
 3. **Set Up a Virtual Environment**
@@ -62,7 +62,7 @@ To get started with Sharkployee, follow these instructions:
 
 7. **Open Your Browser**
 
-    Visit [http://localhost:5000](http://localhost:5000) (or the specified port) to start using Sharkployee locally.
+    Visit [http://localhost:5000](http://localhost:5000) (or the specified port) to start using Carrer Catalyst locally.
 
 ## Usage
 
@@ -74,7 +74,7 @@ To get started with Sharkployee, follow these instructions:
 
 ## Contributing
 
-We welcome contributions to Sharkployee! If you’d like to contribute, please follow these guidelines:
+We welcome contributions to Carrer Catalyst! If you’d like to contribute, please follow these guidelines:
 
 1. **Fork the Repository**: Create your own fork of the repository.
 2. **Create a Branch**: Create a new branch for your feature or bug fix.
@@ -93,10 +93,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions or feedback, please reach out to us at:
 
-- **Email**: [support@sharkployee.com](mailto:support@sharkployee.com)
-- **Twitter**: [@Sharkployee](https://twitter.com/Sharkployee)
-- **GitHub Issues**: [Sharkployee Issues](https://github.com/yourusername/sharkployee/issues)
+- **Email**: [support@carrercatalyst.com](mailto:support@carrercatalyst.com)
+- **Twitter**: [@Carrer Catalyst](https://twitter.com/CarrerCatalyst)
+- **GitHub Issues**: [Carrer Catalyst Issues](https://github.com/K-DDevStudio/CareerCatalyst/issues)
 
-Thank you for using Sharkployee!
+Thank you for using Carrer Catalyst!
 
 Happy job hunting! 🦈🚀
